@@ -9,3 +9,6 @@ hola("Lalo")
 
 # Cuando hacemos referencia a una variable dentro de una función, decimos que estamos haciendo uso de sus parámetros.
 # Cuando llamamos a una función y le pasamos un valor, estamos pasándole un argumento.
+
+# Asignar nombre a los argumentos.
+hola(apellido="Acevedo", nombre="Eduardo")
